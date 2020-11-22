@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\CalcServer\bin\Debug\netcoreapp3.1\CalcServer.exe
+C:\Users\user\source\repos\CalcServer\bin\Debug\netcoreapp3.1\CalcServer.deps.json
+C:\Users\user\source\repos\CalcServer\bin\Debug\netcoreapp3.1\CalcServer.runtimeconfig.json
+C:\Users\user\source\repos\CalcServer\bin\Debug\netcoreapp3.1\CalcServer.runtimeconfig.dev.json
+C:\Users\user\source\repos\CalcServer\bin\Debug\netcoreapp3.1\CalcServer.dll
+C:\Users\user\source\repos\CalcServer\bin\Debug\netcoreapp3.1\CalcServer.pdb
+C:\Users\user\source\repos\CalcServer\obj\Debug\netcoreapp3.1\CalcServer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CalcServer\obj\Debug\netcoreapp3.1\CalcServer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CalcServer\obj\Debug\netcoreapp3.1\CalcServer.AssemblyInfo.cs
+C:\Users\user\source\repos\CalcServer\obj\Debug\netcoreapp3.1\CalcServer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CalcServer\obj\Debug\netcoreapp3.1\CalcServer.dll
+C:\Users\user\source\repos\CalcServer\obj\Debug\netcoreapp3.1\CalcServer.pdb
+C:\Users\user\source\repos\CalcServer\obj\Debug\netcoreapp3.1\CalcServer.genruntimeconfig.cache

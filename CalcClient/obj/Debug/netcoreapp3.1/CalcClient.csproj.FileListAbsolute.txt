@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\CalcClient\bin\Debug\netcoreapp3.1\CalcClient.exe
+C:\Users\user\source\repos\CalcClient\bin\Debug\netcoreapp3.1\CalcClient.deps.json
+C:\Users\user\source\repos\CalcClient\bin\Debug\netcoreapp3.1\CalcClient.runtimeconfig.json
+C:\Users\user\source\repos\CalcClient\bin\Debug\netcoreapp3.1\CalcClient.runtimeconfig.dev.json
+C:\Users\user\source\repos\CalcClient\bin\Debug\netcoreapp3.1\CalcClient.dll
+C:\Users\user\source\repos\CalcClient\bin\Debug\netcoreapp3.1\CalcClient.pdb
+C:\Users\user\source\repos\CalcClient\obj\Debug\netcoreapp3.1\CalcClient.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CalcClient\obj\Debug\netcoreapp3.1\CalcClient.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CalcClient\obj\Debug\netcoreapp3.1\CalcClient.AssemblyInfo.cs
+C:\Users\user\source\repos\CalcClient\obj\Debug\netcoreapp3.1\CalcClient.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CalcClient\obj\Debug\netcoreapp3.1\CalcClient.dll
+C:\Users\user\source\repos\CalcClient\obj\Debug\netcoreapp3.1\CalcClient.pdb
+C:\Users\user\source\repos\CalcClient\obj\Debug\netcoreapp3.1\CalcClient.genruntimeconfig.cache
